@@ -6,7 +6,7 @@ CREATE TABLE Customer
 	gender VARCHAR(1),
 	birth_date DATE,
 	country VARCHAR(30),
-	phone_number VARCHAR(30),
+	phone_number VARCHAR(30) UNIQUE,
 	email VARCHAR(50) UNIQUE
 );
 
@@ -25,7 +25,7 @@ CREATE TABLE Hotel
 	hotel_address VARCHAR(150),
 	city VARCHAR(50),
 	country VARCHAR(50),
-	hotel_score REAL NOT NULL
+	hotel_score REAL
 );
 
 CREATE TABLE Hotel_Booking
