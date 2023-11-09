@@ -1,247 +1,247 @@
-aircraft_name	aircraft_iata	aircraft_icao	aircraft_id
-Aerospatiale (Nord) 262	ND2	N262	0
-Aerospatiale (Sud Aviation) Se.210 Caravelle	CRV	S210	1
-Aerospatiale SN.601 Corvette	NDC	S601	2
-Aerospatiale/Alenia ATR 42-300	AT4	AT43	3
-Aerospatiale/Alenia ATR 42-500	AT5	AT45	4
-Aerospatiale/Alenia ATR 42-600	ATR	AT46	5
-Aerospatiale/Alenia ATR 72	AT7	AT72	6
-Airbus A300	AB3	A30B	7
-Airbus A300-600	AB6	A306	8
-Airbus A300-600ST Super Transporter / Beluga	ABB	A3ST	9
-Airbus A310	310	A310	10
-Airbus A318	318	A318	11
-Airbus A319	319	A319	12
-Airbus A319neo	31N	A19N	13
-Airbus A320	320	A320	14
-Airbus A320neo	32N	A20N	15
-Airbus A321	321	A321	16
-Airbus A321neo	32Q	A21N	17
-Airbus A330	330		18
-Airbus A330-200	332	A332	19
-Airbus A330-300	333	A333	20
-Airbus A330-700 Beluga XL		A337	21
-Airbus A330-800neo	338	A338	22
-Airbus A330-900neo	339	A339	23
-Airbus A340	340		24
-Airbus A340-200	342	A342	25
-Airbus A340-300	343	A343	26
-Airbus A340-500	345	A345	27
-Airbus A340-600	346	A346	28
-Airbus A350	350		29
-Airbus A350-1000	351	A35K	30
-Airbus A350-900	359	A359	31
-Airbus A380	380		32
-Airbus A380-800	388	A388	33
-Antonov AN-12	ANF	AN12	34
-Antonov AN-124 Ruslan	A4F	A124	35
-Antonov AN-140	A40	A140	36
-Antonov An-148	A81	A148	37
-Antonov An-158	A58	A158	38
-Antonov An-225 Mriya	A25	A225	39
-Antonov AN-24	AN4	AN24	40
-Antonov AN-26	A26	AN26	41
-Antonov AN-28	A28	AN28	42
-Antonov AN-30	A30	AN30	43
-Antonov AN-32	A32	AN32	44
-Antonov AN-72	AN7	AN72	45
-Avro RJ100	AR1	RJ1H	46
-Avro RJ70	AR7	RJ70	47
-Avro RJ85	AR8	RJ85	48
-BAe 146	146		49
-BAe 146-100	141	B461	50
-BAe 146-200	142	B462	51
-BAe 146-300	143	B463	52
-Beechcraft 1900	BEH	B190	53
-Beechcraft Baron		BE58	54
-Beechcraft Baron / 55 Baron		BE55	55
-Bell 212	BH2	B212	56
-Boeing 707	703	B703	57
-Boeing 717	717	B712	58
-Boeing 720B	B72	B720	59
-Boeing 727	727		60
-Boeing 727-100	721	B721	61
-Boeing 727-200	722	B722	62
-Boeing 737	737		63
-Boeing 737 MAX 10	7MJ		64
-Boeing 737 MAX 7	7M7	B37M	65
-Boeing 737 MAX 8	7M8	B38M	66
-Boeing 737 MAX 9	7M9	B39M	67
-Boeing 737-200	732	B732	68
-Boeing 737-300	733	B733	69
-Boeing 737-400	734	B734	70
-Boeing 737-500	735	B735	71
-Boeing 737-600	736	B736	72
-Boeing 737-700	73G	B737	73
-Boeing 737-800	738	B738	74
-Boeing 737-900	739	B739	75
-Boeing 747	747		76
-Boeing 747 LCF Dreamlifter	74B	BLCF	77
-Boeing 747-100	741	B741	78
-Boeing 747-200	742	B742	79
-Boeing 747-300	743	B743	80
-Boeing 747-400	744	B744	81
-Boeing 747-400D	74J	B74D	82
-Boeing 747-8	748	B748	83
-Boeing 747SP	74L	B74S	84
-Boeing 747SR	74R	B74R	85
-Boeing 757	757		86
-Boeing 757-200	752	B752	87
-Boeing 757-300	753	B753	88
-Boeing 767	767		89
-Boeing 767-200	762	B762	90
-Boeing 767-300	763	B763	91
-Boeing 767-400	764	B764	92
-Boeing 777	777		93
-Boeing 777-200	772	B772	94
-Boeing 777-200LR	77L	B77L	95
-Boeing 777-300	773	B773	96
-Boeing 777-300ER	77W	B77W	97
-Boeing 777-8	778	B778	98
-Boeing 777-9	779	B779	99
-Boeing 787	787		100
-Boeing 787-10	78J	B78X	101
-Boeing 787-8	788	B788	102
-Boeing 787-9	789	B789	103
-Bombardier 415		CL2T	104
-Bombardier BD-100 Challenger 300		CL30	105
-Bombardier CS100	CS1	BCS1	106
-Bombardier CS300	CS3	BCS3	107
-Bombardier Global Express	CCX	GLEX	108
-British Aerospace (BAC) One Eleven	B11	BA11	109
-British Aerospace 125 series / Hawker/Raytheon 700/800/800XP/850/900	H25	H25B	110
-British Aerospace 125-1000 series / Hawker/Raytheon 1000	H25	H25C	111
-British Aerospace ATP	ATP	ATP	112
-British Aerospace Jetstream 31	J31	JS31	113
-British Aerospace Jetstream 32	J32	JS32	114
-British Aerospace Jetstream 41	J41	JS41	115
-Canadair Challenger	CCJ	CL60	116
-Canadair CL-44	CL4	CL44	117
-Canadair Regional Jet 100	CR1	CRJ1	118
-Canadair Regional Jet 1000	CRK	CRJX	119
-Canadair Regional Jet 200	CR2	CRJ2	120
-Canadair Regional Jet 700	CR7	CRJ7	121
-Canadair Regional Jet 900	CR9	CRJ9	122
-Cessna 152		C152	123
-Cessna 172	CN1	C172	124
-Cessna 182 Skylane	CN1	C182	125
-Cessna 208 Caravan	CN1	C208	126
-Cessna 210 Centurion	CN1	C210	127
-Cessna Citation CJ3	CNJ	C25B	128
-Cessna Citation CJ4	CNJ	C25C	129
-Cessna Citation Excel	CNJ	C56X	130
-Cessna Citation I	CNJ	C500	131
-Cessna Citation II	CNJ	C550	132
-Cessna Citation Mustang	CNJ	C510	133
-Cessna Citation Sovereign	CNJ	C680	134
-Cessna Citation X	CNJ	C750	135
-COMAC C-919		C919	136
-Concorde	SSC	CONC	137
-Dassault Falcon 2000	D20	F2TH	138
-Dassault Falcon 50	DF3	FA50	139
-Dassault Falcon 7X	DF7	FA7X	140
-Dassault Falcon 900	DF9	F900	141
-De Havilland Canada DHC-2 Beaver	DHP	DHC2	142
-De Havilland Canada DHC-2 Turbo-Beaver	DHR	DH2T	143
-De Havilland Canada DHC-3 Otter	DHL	DHC3	144
-De Havilland Canada DHC-4 Caribou	DHC	DHC4	145
-De Havilland Canada DHC-6 Twin Otter	DHT	DHC6	146
-De Havilland Canada DHC-7 Dash 7	DH7	DHC7	147
-De Havilland Canada DHC-8-100 Dash 8 / 8Q	DH1	DH8A	148
-De Havilland Canada DHC-8-200 Dash 8 / 8Q	DH2	DH8B	149
-De Havilland Canada DHC-8-300 Dash 8	DH3	DH8C	150
-De Havilland Canada DHC-8-400 Dash 8Q	DH4	DH8D	151
-De Havilland DH.104 Dove	DHD	DOVE	152
-De Havilland DH.114 Heron	DHH	HERN	153
-Douglas DC-10	D10	DC10	154
-Douglas DC-3	D3F	DC3	155
-Douglas DC-6	D6F	DC6	156
-Douglas DC-8-50	D8T	DC85	157
-Douglas DC-8-62	D8L	DC86	158
-Douglas DC-8-72	D8Q	DC87	159
-Douglas DC-9-10	D91	DC91	160
-Douglas DC-9-20	D92	DC92	161
-Douglas DC-9-30	D93	DC93	162
-Douglas DC-9-40	D94	DC94	163
-Douglas DC-9-50	D95	DC95	164
-Embraer 170	E70	E170	165
-Embraer 175	E75		166
-Embraer 175 (long wing)	E7W	E75L	167
-Embraer 175 (short wing)	E7W	E75S	168
-Embraer 190	E90	E190	169
-Embraer 195	E95	E195	170
-Embraer E190-E2	290	E290	171
-Embraer E195-E2	295	E295	172
-Embraer EMB 110 Bandeirante	EMB	E110	173
-Embraer EMB 120 Brasilia	EM2	E120	174
-Embraer Legacy 450		E545	175
-Embraer Legacy 600	ER3	E35L	176
-Embraer Phenom 100	EP1	E50P	177
-Embraer Phenom 300	EP3	E55P	178
-Embraer RJ135	ER3	E135	179
-Embraer RJ140	ERD	E135	180
-Embraer RJ145	ER4	E145	181
-Fairchild Dornier 328JET	FRJ	J328	182
-Fairchild Dornier Do.228	D28	D228	183
-Fairchild Dornier Do.328	D38	D328	184
-Fokker 100	100	F100	185
-Fokker 50	F50	F50	186
-Fokker 70	F70	F70	187
-Fokker F27 Friendship	F27	F27	188
-Fokker F28 Fellowship	F21	F28	189
-Gulfstream Aerospace G-159 Gulfstream I	GRS	G159	190
-Gulfstream G280	GR3	G280	191
-Gulfstream G650	GJ6	GLF6	192
-Gulfstream IV	GJ4	GLF4	193
-Gulfstream V	GJ5	GLF5	194
-Gulfstream/Rockwell (Aero) Commander	ACP	AC68	195
-Gulfstream/Rockwell (Aero) Turbo Commander	ACT	AC90	196
-Harbin Yunshuji Y12	YN2	Y12	197
-Hawker Siddeley HS 748	HS7	A748	198
-Ilyushin IL114	I14	I114	199
-Ilyushin IL18	IL8	IL18	200
-Ilyushin IL62	IL6	IL62	201
-Ilyushin IL76	IL7	IL76	202
-Ilyushin IL86	ILW	IL86	203
-Ilyushin IL96	I93	IL96	204
-Learjet 35	LRJ	LJ35	205
-Learjet 60	LRJ	LJ60	206
-Lockheed L-1011 Tristar	L10	L101	207
-Lockheed L-1049 Super Constellation	L49	CONI	208
-Lockheed L-182 / 282 / 382 (L-100) Hercules	LOH	C130	209
-Lockheed L-188 Electra	LOE	L188	210
-McDonnell Douglas MD-11	M11	MD11	211
-McDonnell Douglas MD-81	M81	MD81	212
-McDonnell Douglas MD-82	M82	MD82	213
-McDonnell Douglas MD-83	M83	MD83	214
-McDonnell Douglas MD-87	M87	MD87	215
-McDonnell Douglas MD-88	M88	MD88	216
-McDonnell Douglas MD-90	M90	MD90	217
-NAMC YS-11	YS1	YS11	218
-Partenavia P.68	PN6	P68	219
-Pilatus Britten-Norman BN-2A Mk III Trislander	BNT	TRIS	220
-Pilatus Britten-Norman BN-2A/B Islander	BNI	BN2P	221
-Pilatus PC-12	PL2	PC12	222
-Pilatus PC-6 Turbo Porter	PL6	PC6T	223
-Piper PA-28 (above 200 hp)		P28B	224
-Piper PA-28 (up to 180 hp)		P28A	225
-Piper PA-31 Navajo	PA2	PA31	226
-Piper PA-44 Seminole		PA44	227
-Piper PA-46	PAG	PA46	228
-Saab 2000	S20	SB20	229
-Saab SF340A/B	SF3	SF34	230
-Shorts SC-5 Belfast	SHB	BELF	231
-Shorts SC-7 Skyvan	SHS	SC7	232
-Shorts SD.330	SH3	SH33	233
-Shorts SD.360	SH6	SH36	234
-Sikorsky S-58T	S58	S58T	235
-Sikorsky S-61	S61	S61	236
-Sikorsky S-76	S76	S76	237
-Sikorsky S-92	S92	S92	238
-Sukhoi Superjet 100-95	SU9	SU95	239
-Tupolev Tu-134	TU3	T134	240
-Tupolev Tu-144		T144	241
-Tupolev Tu-154	TU5	T154	242
-Tupolev Tu-204	T20	T204	243
-Yakovlev Yak-40	YK4	YK40	244
-Yakovlev Yak-42	YK2	YK42	245
+aircraft_id	aircraft_name	iata_code	icao_code
+0	Aerospatiale (Nord) 262	ND2	N262
+1	Aerospatiale (Sud Aviation) Se.210 Caravelle	CRV	S210
+2	Aerospatiale SN.601 Corvette	NDC	S601
+3	Aerospatiale/Alenia ATR 42-300	AT4	AT43
+4	Aerospatiale/Alenia ATR 42-500	AT5	AT45
+5	Aerospatiale/Alenia ATR 42-600	ATR	AT46
+6	Aerospatiale/Alenia ATR 72	AT7	AT72
+7	Airbus A300	AB3	A30B
+8	Airbus A300-600	AB6	A306
+9	Airbus A300-600ST Super Transporter / Beluga	ABB	A3ST
+10	Airbus A310	310	A310
+11	Airbus A318	318	A318
+12	Airbus A319	319	A319
+13	Airbus A319neo	31N	A19N
+14	Airbus A320	320	A320
+15	Airbus A320neo	32N	A20N
+16	Airbus A321	321	A321
+17	Airbus A321neo	32Q	A21N
+18	Airbus A330	330	
+19	Airbus A330-200	332	A332
+20	Airbus A330-300	333	A333
+21	Airbus A330-700 Beluga XL		A337
+22	Airbus A330-800neo	338	A338
+23	Airbus A330-900neo	339	A339
+24	Airbus A340	340	
+25	Airbus A340-200	342	A342
+26	Airbus A340-300	343	A343
+27	Airbus A340-500	345	A345
+28	Airbus A340-600	346	A346
+29	Airbus A350	350	
+30	Airbus A350-1000	351	A35K
+31	Airbus A350-900	359	A359
+32	Airbus A380	380	
+33	Airbus A380-800	388	A388
+34	Antonov AN-12	ANF	AN12
+35	Antonov AN-124 Ruslan	A4F	A124
+36	Antonov AN-140	A40	A140
+37	Antonov An-148	A81	A148
+38	Antonov An-158	A58	A158
+39	Antonov An-225 Mriya	A25	A225
+40	Antonov AN-24	AN4	AN24
+41	Antonov AN-26	A26	AN26
+42	Antonov AN-28	A28	AN28
+43	Antonov AN-30	A30	AN30
+44	Antonov AN-32	A32	AN32
+45	Antonov AN-72	AN7	AN72
+46	Avro RJ100	AR1	RJ1H
+47	Avro RJ70	AR7	RJ70
+48	Avro RJ85	AR8	RJ85
+49	BAe 146	146	
+50	BAe 146-100	141	B461
+51	BAe 146-200	142	B462
+52	BAe 146-300	143	B463
+53	Beechcraft 1900	BEH	B190
+54	Beechcraft Baron		BE58
+55	Beechcraft Baron / 55 Baron		BE55
+56	Bell 212	BH2	B212
+57	Boeing 707	703	B703
+58	Boeing 717	717	B712
+59	Boeing 720B	B72	B720
+60	Boeing 727	727	
+61	Boeing 727-100	721	B721
+62	Boeing 727-200	722	B722
+63	Boeing 737	737	
+64	Boeing 737 MAX 10	7MJ	
+65	Boeing 737 MAX 7	7M7	B37M
+66	Boeing 737 MAX 8	7M8	B38M
+67	Boeing 737 MAX 9	7M9	B39M
+68	Boeing 737-200	732	B732
+69	Boeing 737-300	733	B733
+70	Boeing 737-400	734	B734
+71	Boeing 737-500	735	B735
+72	Boeing 737-600	736	B736
+73	Boeing 737-700	73G	B737
+74	Boeing 737-800	738	B738
+75	Boeing 737-900	739	B739
+76	Boeing 747	747	
+77	Boeing 747 LCF Dreamlifter	74B	BLCF
+78	Boeing 747-100	741	B741
+79	Boeing 747-200	742	B742
+80	Boeing 747-300	743	B743
+81	Boeing 747-400	744	B744
+82	Boeing 747-400D	74J	B74D
+83	Boeing 747-8	748	B748
+84	Boeing 747SP	74L	B74S
+85	Boeing 747SR	74R	B74R
+86	Boeing 757	757	
+87	Boeing 757-200	752	B752
+88	Boeing 757-300	753	B753
+89	Boeing 767	767	
+90	Boeing 767-200	762	B762
+91	Boeing 767-300	763	B763
+92	Boeing 767-400	764	B764
+93	Boeing 777	777	
+94	Boeing 777-200	772	B772
+95	Boeing 777-200LR	77L	B77L
+96	Boeing 777-300	773	B773
+97	Boeing 777-300ER	77W	B77W
+98	Boeing 777-8	778	B778
+99	Boeing 777-9	779	B779
+100	Boeing 787	787	
+101	Boeing 787-10	78J	B78X
+102	Boeing 787-8	788	B788
+103	Boeing 787-9	789	B789
+104	Bombardier 415		CL2T
+105	Bombardier BD-100 Challenger 300		CL30
+106	Bombardier CS100	CS1	BCS1
+107	Bombardier CS300	CS3	BCS3
+108	Bombardier Global Express	CCX	GLEX
+109	British Aerospace (BAC) One Eleven	B11	BA11
+110	British Aerospace 125 series / Hawker/Raytheon 700/800/800XP/850/900	H25	H25B
+111	British Aerospace 125-1000 series / Hawker/Raytheon 1000	H25	H25C
+112	British Aerospace ATP	ATP	ATP
+113	British Aerospace Jetstream 31	J31	JS31
+114	British Aerospace Jetstream 32	J32	JS32
+115	British Aerospace Jetstream 41	J41	JS41
+116	Canadair Challenger	CCJ	CL60
+117	Canadair CL-44	CL4	CL44
+118	Canadair Regional Jet 100	CR1	CRJ1
+119	Canadair Regional Jet 1000	CRK	CRJX
+120	Canadair Regional Jet 200	CR2	CRJ2
+121	Canadair Regional Jet 700	CR7	CRJ7
+122	Canadair Regional Jet 900	CR9	CRJ9
+123	Cessna 152		C152
+124	Cessna 172	CN1	C172
+125	Cessna 182 Skylane	CN1	C182
+126	Cessna 208 Caravan	CN1	C208
+127	Cessna 210 Centurion	CN1	C210
+128	Cessna Citation CJ3	CNJ	C25B
+129	Cessna Citation CJ4	CNJ	C25C
+130	Cessna Citation Excel	CNJ	C56X
+131	Cessna Citation I	CNJ	C500
+132	Cessna Citation II	CNJ	C550
+133	Cessna Citation Mustang	CNJ	C510
+134	Cessna Citation Sovereign	CNJ	C680
+135	Cessna Citation X	CNJ	C750
+136	COMAC C-919		C919
+137	Concorde	SSC	CONC
+138	Dassault Falcon 2000	D20	F2TH
+139	Dassault Falcon 50	DF3	FA50
+140	Dassault Falcon 7X	DF7	FA7X
+141	Dassault Falcon 900	DF9	F900
+142	De Havilland Canada DHC-2 Beaver	DHP	DHC2
+143	De Havilland Canada DHC-2 Turbo-Beaver	DHR	DH2T
+144	De Havilland Canada DHC-3 Otter	DHL	DHC3
+145	De Havilland Canada DHC-4 Caribou	DHC	DHC4
+146	De Havilland Canada DHC-6 Twin Otter	DHT	DHC6
+147	De Havilland Canada DHC-7 Dash 7	DH7	DHC7
+148	De Havilland Canada DHC-8-100 Dash 8 / 8Q	DH1	DH8A
+149	De Havilland Canada DHC-8-200 Dash 8 / 8Q	DH2	DH8B
+150	De Havilland Canada DHC-8-300 Dash 8	DH3	DH8C
+151	De Havilland Canada DHC-8-400 Dash 8Q	DH4	DH8D
+152	De Havilland DH.104 Dove	DHD	DOVE
+153	De Havilland DH.114 Heron	DHH	HERN
+154	Douglas DC-10	D10	DC10
+155	Douglas DC-3	D3F	DC3
+156	Douglas DC-6	D6F	DC6
+157	Douglas DC-8-50	D8T	DC85
+158	Douglas DC-8-62	D8L	DC86
+159	Douglas DC-8-72	D8Q	DC87
+160	Douglas DC-9-10	D91	DC91
+161	Douglas DC-9-20	D92	DC92
+162	Douglas DC-9-30	D93	DC93
+163	Douglas DC-9-40	D94	DC94
+164	Douglas DC-9-50	D95	DC95
+165	Embraer 170	E70	E170
+166	Embraer 175	E75	
+167	Embraer 175 (long wing)	E7W	E75L
+168	Embraer 175 (short wing)	E7W	E75S
+169	Embraer 190	E90	E190
+170	Embraer 195	E95	E195
+171	Embraer E190-E2	290	E290
+172	Embraer E195-E2	295	E295
+173	Embraer EMB 110 Bandeirante	EMB	E110
+174	Embraer EMB 120 Brasilia	EM2	E120
+175	Embraer Legacy 450		E545
+176	Embraer Legacy 600	ER3	E35L
+177	Embraer Phenom 100	EP1	E50P
+178	Embraer Phenom 300	EP3	E55P
+179	Embraer RJ135	ER3	E135
+180	Embraer RJ140	ERD	E135
+181	Embraer RJ145	ER4	E145
+182	Fairchild Dornier 328JET	FRJ	J328
+183	Fairchild Dornier Do.228	D28	D228
+184	Fairchild Dornier Do.328	D38	D328
+185	Fokker 100	100	F100
+186	Fokker 50	F50	F50
+187	Fokker 70	F70	F70
+188	Fokker F27 Friendship	F27	F27
+189	Fokker F28 Fellowship	F21	F28
+190	Gulfstream Aerospace G-159 Gulfstream I	GRS	G159
+191	Gulfstream G280	GR3	G280
+192	Gulfstream G650	GJ6	GLF6
+193	Gulfstream IV	GJ4	GLF4
+194	Gulfstream V	GJ5	GLF5
+195	Gulfstream/Rockwell (Aero) Commander	ACP	AC68
+196	Gulfstream/Rockwell (Aero) Turbo Commander	ACT	AC90
+197	Harbin Yunshuji Y12	YN2	Y12
+198	Hawker Siddeley HS 748	HS7	A748
+199	Ilyushin IL114	I14	I114
+200	Ilyushin IL18	IL8	IL18
+201	Ilyushin IL62	IL6	IL62
+202	Ilyushin IL76	IL7	IL76
+203	Ilyushin IL86	ILW	IL86
+204	Ilyushin IL96	I93	IL96
+205	Learjet 35	LRJ	LJ35
+206	Learjet 60	LRJ	LJ60
+207	Lockheed L-1011 Tristar	L10	L101
+208	Lockheed L-1049 Super Constellation	L49	CONI
+209	Lockheed L-182 / 282 / 382 (L-100) Hercules	LOH	C130
+210	Lockheed L-188 Electra	LOE	L188
+211	McDonnell Douglas MD-11	M11	MD11
+212	McDonnell Douglas MD-81	M81	MD81
+213	McDonnell Douglas MD-82	M82	MD82
+214	McDonnell Douglas MD-83	M83	MD83
+215	McDonnell Douglas MD-87	M87	MD87
+216	McDonnell Douglas MD-88	M88	MD88
+217	McDonnell Douglas MD-90	M90	MD90
+218	NAMC YS-11	YS1	YS11
+219	Partenavia P.68	PN6	P68
+220	Pilatus Britten-Norman BN-2A Mk III Trislander	BNT	TRIS
+221	Pilatus Britten-Norman BN-2A/B Islander	BNI	BN2P
+222	Pilatus PC-12	PL2	PC12
+223	Pilatus PC-6 Turbo Porter	PL6	PC6T
+224	Piper PA-28 (above 200 hp)		P28B
+225	Piper PA-28 (up to 180 hp)		P28A
+226	Piper PA-31 Navajo	PA2	PA31
+227	Piper PA-44 Seminole		PA44
+228	Piper PA-46	PAG	PA46
+229	Saab 2000	S20	SB20
+230	Saab SF340A/B	SF3	SF34
+231	Shorts SC-5 Belfast	SHB	BELF
+232	Shorts SC-7 Skyvan	SHS	SC7
+233	Shorts SD.330	SH3	SH33
+234	Shorts SD.360	SH6	SH36
+235	Sikorsky S-58T	S58	S58T
+236	Sikorsky S-61	S61	S61
+237	Sikorsky S-76	S76	S76
+238	Sikorsky S-92	S92	S92
+239	Sukhoi Superjet 100-95	SU9	SU95
+240	Tupolev Tu-134	TU3	T134
+241	Tupolev Tu-144		T144
+242	Tupolev Tu-154	TU5	T154
+243	Tupolev Tu-204	T20	T204
+244	Yakovlev Yak-40	YK4	YK40
+245	Yakovlev Yak-42	YK2	YK42

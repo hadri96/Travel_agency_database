@@ -5,9 +5,9 @@ CREATE TABLE Customer
 	last_name VARCHAR(50),
 	gender VARCHAR(1),
 	birth_date DATE,
+	country VARCHAR(30),
 	phone_number VARCHAR(30),
-	email VARCHAR(50) UNIQUE,
-	country VARCHAR(30)
+	email VARCHAR(50) UNIQUE
 );
 
 CREATE TABLE Trip
@@ -34,7 +34,7 @@ CREATE TABLE Hotel_Booking
 	price REAL NOT NULL,
 	breakfast_included BOOLEAN,
 	check_in_date DATE NOT NULL,
-	check_out_date DATE,
+	check_out_date DATE NOT NULL,
 	trip_id INTEGER NOT NULL,
 	hotel_id INTEGER NOT NULL,
 	FOREIGN KEY(hotel_id) REFERENCES Hotel(hotel_id)
@@ -72,16 +72,18 @@ CREATE TABLE Airport
 	iata_code INTEGER PRIMARY KEY,
 	airport_name VARCHAR(100),
 	icao_code INTEGER UNIQUE NOT NULL,
-	longitude DECIMAL(8,6) NOT NULL,
-	latitude DECIMAL(9,6) NOT NULL
+	city VARCHAR(50),
+	country VARCHAR(50),
+	latitude DECIMAL(8,6) NOT NULL,
+	longitude DECIMAL(9,6) NOT NULL
 );
 
 CREATE TABLE Aircraft
 (
 	aircraft_id INTEGER PRIMARY KEY,
 	aircraft_name VARCHAR(30),
-	icao_code INTEGER UNIQUE NOT NULL,
-	iata_code INTEGER UNIQUE NOT NULL
+	iata_code INTEGER UNIQUE NOT NULL,
+	icao_code INTEGER UNIQUE NOT NULL
 );
 
 CREATE TABLE Flight
@@ -91,16 +93,17 @@ CREATE TABLE Flight
 	flight_duration TIME NOT NULL,
 	departure_time TIMESTAMP NOT NULL,
 	departure_date DATE NOT NULL,
+	airline_id INTEGER NOT NULL,
+	airport_src INTEGER NOT NULL,
+	airport_dst INTEGER NOT NULL,
 	aircraft_id INTEGER NOT NULL,
 	FOREIGN KEY(aircraft_id) REFERENCES Aircraft(aircraft_id)
 		ON UPDATE CASCADE,
-	airline_id INTEGER NOT NULL,
 	FOREIGN KEY(airline_id) REFERENCES Airline(airline_id)
 		ON UPDATE CASCADE,
-	airport_src INTEGER NOT NULL,
+
 	FOREIGN KEY(airport_src) REFERENCES Airport(iata_code)
 		ON UPDATE CASCADE,
-	airport_dest INTEGER NOT NULL,
 	FOREIGN KEY(airport_dest) REFERENCES Airport(iata_code)
 		ON UPDATE CASCADE
 );

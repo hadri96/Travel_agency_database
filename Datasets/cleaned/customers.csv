@@ -1,4 +1,4 @@
-customer_id	first_name	family_name	gender	birth_date	country	phone_number
+customer_id	first_name	last_name	gender	birth_date	country	phone_number
 7529424	Tatiana	REZE	F	19/12/1976	Nigeria	2348118052430
 5688420	Soizic	FOUILLET	F	22/09/1976	Tunisia	21636540047
 7549035	Maude	SUPIOT	F	01/09/1980	Italy	395040038978
