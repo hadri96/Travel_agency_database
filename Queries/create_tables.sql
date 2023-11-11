@@ -22,7 +22,7 @@ CREATE TABLE Hotel
 (
 	hotel_id INTEGER PRIMARY KEY,
 	hotel_name VARCHAR(100),
-	hotel_address VARCHAR(150),
+	hotel_address VARCHAR(300),
 	city VARCHAR(50),
 	country VARCHAR(50),
 	hotel_score REAL
@@ -60,38 +60,39 @@ CREATE TABLE Review
 CREATE TABLE Airline
 (
 	airline_id INTEGER PRIMARY KEY,
-	airline_name VARCHAR(100),
-	country VARCHAR(30),
-	icao_code INTEGER UNIQUE NOT NULL,
-	iata_code INTEGER UNIQUE NOT NULL,
+	airline_name VARCHAR(200),
+	country VARCHAR(100),
+	icao_code VARCHAR(5),
+	iata_code VARCHAR(5),
 	alias VARCHAR(50)
 );
 
 CREATE TABLE Airport
 (
-	iata_code INTEGER PRIMARY KEY,
-	airport_name VARCHAR(100),
-	icao_code INTEGER UNIQUE NOT NULL,
-	city VARCHAR(50),
-	country VARCHAR(50),
-	latitude DECIMAL(8,6) NOT NULL,
-	longitude DECIMAL(9,6) NOT NULL
+	airport_id INTEGER PRIMARY KEY,
+	iata_code VARCHAR(5) UNIQUE,
+	airport_name VARCHAR(200),
+	icao_code VARCHAR(5) UNIQUE,
+	city VARCHAR(100),
+	country VARCHAR(100),
+	latitude DECIMAL(10,6) NOT NULL,
+	longitude DECIMAL(10,6) NOT NULL
 );
 
 CREATE TABLE Aircraft
 (
 	aircraft_id INTEGER PRIMARY KEY,
-	aircraft_name VARCHAR(30),
-	iata_code INTEGER UNIQUE NOT NULL,
-	icao_code INTEGER UNIQUE NOT NULL
+	aircraft_name VARCHAR(200),
+	iata_code VARCHAR(5),
+	icao_code VARCHAR(5)
 );
 
 CREATE TABLE Flight
 (
 	flight_id INTEGER PRIMARY KEY,
-	flight_number INTEGER NOT NULL,
-	flight_duration TIME NOT NULL,
-	departure_time TIMESTAMP NOT NULL,
+	flight_number VARCHAR(15) NOT NULL,
+	flight_duration INTERVAL NOT NULL,
+	departure_time TIME NOT NULL,
 	departure_date DATE NOT NULL,
 	airline_id INTEGER NOT NULL,
 	airport_src INTEGER NOT NULL,
@@ -101,10 +102,9 @@ CREATE TABLE Flight
 		ON UPDATE CASCADE,
 	FOREIGN KEY(airline_id) REFERENCES Airline(airline_id)
 		ON UPDATE CASCADE,
-
-	FOREIGN KEY(airport_src) REFERENCES Airport(iata_code)
+	FOREIGN KEY(airport_dst) REFERENCES Airport(airport_id)
 		ON UPDATE CASCADE,
-	FOREIGN KEY(airport_dest) REFERENCES Airport(iata_code)
+	FOREIGN KEY(airport_src) REFERENCES Airport(airport_id)
 		ON UPDATE CASCADE
 );
 
